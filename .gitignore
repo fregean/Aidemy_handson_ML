@@ -133,3 +133,7 @@ dmypy.json
 
 # jpg
 data/*.jpg
+
+# excepting HousePrices
+data/WineQuality/*
+data/homework/*
